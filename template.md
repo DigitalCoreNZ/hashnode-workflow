@@ -82,13 +82,13 @@ coAuthors: string[]
 
 * * *
 
-## An Introduction.
+## Introduction.
 
 (pending)
 
 * * *
 
-## The Big Picture.
+## Big Picture.
 
 (pending)
 
@@ -128,13 +128,13 @@ sudo apt autoremove -y
 
 * * *
 
-## The Results.
+## Results.
 
 (pending)
 
 * * *
 
-## In Conclusion.
+## Conclusion.
 
 (pending)
 
