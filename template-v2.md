@@ -11,7 +11,7 @@ seoDescription: A walkthrough of the template behind my blog.
 ogImage: https://example.com/og.png
 enableToc: true
 disableComments: false
-publishedAt: 2026-07-27T18:00:00Z
+publishedAt: 2026-07-26T18:00:00Z
 saveAsDraft: true
 ignorePost: false
 hideFromCommunity: false
